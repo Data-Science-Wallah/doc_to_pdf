@@ -24,7 +24,7 @@ A professional Streamlit web application that allows users to upload DOCX files 
 
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/your-username/docx-to-pdf-converter.git](https://github.com/Data-Science-Wallah/doc_to_pdf.git)
+   [[git clone https://github.com/Data-Science-Wallah/doc_to_pdf.git
    cd docx-to-pdf-converter
    ```
 
